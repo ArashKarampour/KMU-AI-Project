@@ -1,0 +1,12 @@
+nearmiss:
+https://hersanyagci.medium.com/under-sampling-methods-for-imbalanced-data-clustercentroids-randomundersampler-nearmiss-eae0eadcc145
+
+CNN layers + feature extraction from flatten layer + usage:
+https://chatgpt.com/share/adc78bf5-1e20-4f43-aa8c-5d6f9ddfd94f
+
+NearMiss code explaination:
+https://chatgpt.com/share/5b2d7317-1879-462c-b23c-3e07cbe9cf79
+
+Convert Audio to Image Spectogram:
+https://github.com/hdnh2006/AudioToSpectogram?tab=readme-ov-file
+https://github.com/muhdhuz/audio2spec
